@@ -6,7 +6,7 @@ while(f<i){
     }
     
     else{
-        ++f;
+        f++;
     }
 }
 console.log('600851475143 Sayısının En Büyük Asal Büyük Çarpanı = ' + f);
