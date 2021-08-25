@@ -1,18 +1,12 @@
-/*
-while(şart){
-    çalışacak kodlar
-}
-*/
-
-var i=600851475143; çarpan=2;
-while(çarpan<i){
+var i=600851475143; f=2;
+while(f<i){
     
-    if (i%çarpan==0){
-        i /= çarpan;
+    if (i%f==0){
+        i /= f;
     }
     
     else{
-        ++çarpan;
+        ++f;
     }
 }
-console.log('600851475143 Sayısının En Asal Büyük Çarpanı = ' + çarpan);
+console.log('600851475143 Sayısının En Büyük Asal Büyük Çarpanı = ' + f);
