@@ -1,0 +1,19 @@
+{
+  "name": "asalsayi",
+  "version": "1.0.0",
+  "description": "\"13195’in asal çarpanları 5, 7, 13 ve 29’dur. 600851475143 sayısının en büyük asal çarpanı kaçtır?\"",
+  "main": "asal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihaitachi0816/Js-Deneme-3.git"
+  },
+  "author": "\"Göksal Yılmaz\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihaitachi0816/Js-Deneme-3/issues"
+  },
+  "homepage": "https://github.com/uchihaitachi0816/Js-Deneme-3#readme"
+}
